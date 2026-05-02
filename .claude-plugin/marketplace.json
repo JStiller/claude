@@ -1,0 +1,15 @@
+{
+  "name": "jstiller-claude",
+  "owner": {
+    "name": "José Stiller",
+    "email": "info@josestiller.de"
+  },
+  "description": "Claude, the way i use it every day.",
+  "plugins": [
+    {
+      "name": "caveman",
+      "source": "./plugins/caveman",
+      "description": "Ultra-compressed communication mode."
+    }
+  ]
+}
