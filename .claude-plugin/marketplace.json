@@ -9,7 +9,12 @@
     {
       "name": "caveman",
       "source": "./plugins/caveman",
-      "description": "Ultra-compressed communication mode."
+      "description": "Compressed communication mode."
+    },
+    {
+      "name": "create",
+      "source": "./plugins/create",
+      "description": "Create Claude Code artifacts: skills, hooks, commands, MCP servers, agents, and plugins."
     }
   ]
 }

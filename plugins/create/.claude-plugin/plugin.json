@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "create",
+  "description": "Create Claude Code artifacts: skills, hooks, commands, MCP servers, agents, and plugins.",
+  "version": "0.0.1",
+  "author": {
+    "name": "José Stiller",
+    "email": "info@josestiller.de",
+    "url": "https://www.josestiller.de"
+  },
+  "repository": "https://github.com/JStiller/claude/plugins/create",
+  "license": "MIT"
+}

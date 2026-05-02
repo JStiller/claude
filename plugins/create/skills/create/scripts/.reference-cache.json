@@ -1,0 +1,66 @@
+{
+  "files": {
+    "claude-code-agent-teams.md": {
+      "hash": "155534f59d903b7c4a45d4fb41780aa29c49592245830a9925ad70d7078fcbdb",
+      "url": "https://code.claude.com/docs/en/agent-teams"
+    },
+    "claude-code-auto-mode-config.md": {
+      "hash": "5513ef2205ee33c3addd2af681deb5957ccc63ff6031b07a6a178f1a4174c83b",
+      "url": "https://code.claude.com/docs/en/auto-mode-config"
+    },
+    "claude-code-commands.md": {
+      "hash": "5a76a2dc89a10afb9ce552b3638844365f25eaef3c7878d3168da43358b3660e",
+      "url": "https://code.claude.com/docs/en/commands"
+    },
+    "claude-code-costs.md": {
+      "hash": "278c6235b365d782fa92232fdffaf429e37c871abde9f563d3e7bc784661d743",
+      "url": "https://code.claude.com/docs/en/costs"
+    },
+    "claude-code-hooks.md": {
+      "hash": "ab0e621e05df5f984c86884416fc270a4d99f43bbbf2da5d312debb949e0dda9",
+      "url": "https://code.claude.com/docs/en/hooks"
+    },
+    "claude-code-mcp.md": {
+      "hash": "8211535ff47338c4b443441c9b785ade80bf49ab06a94dfc8af3427e70d26997",
+      "url": "https://code.claude.com/docs/en/mcp"
+    },
+    "claude-code-permission-modes.md": {
+      "hash": "71048c824ba78cbb6beeddf4d75c5aa9eac52084106919c2d821d9cde8f16c0a",
+      "url": "https://code.claude.com/docs/en/permission-modes"
+    },
+    "claude-code-permissions.md": {
+      "hash": "4e0dc2722fa9517a190a378aaec363aa59ecd5fa34ab28d016e680afdb1a5a97",
+      "url": "https://code.claude.com/docs/en/permissions"
+    },
+    "claude-code-plugins.md": {
+      "hash": "5c426f5c2cc8e2d4fa6a0517cccba73b604846928615bf71c196ac1aa951b1ce",
+      "url": "https://code.claude.com/docs/en/plugins"
+    },
+    "claude-code-sandboxing.md": {
+      "hash": "ec99d2811da9de909eefeebfe6e3c6c418b92a7e331c909e372ccda84a987a7b",
+      "url": "https://code.claude.com/docs/en/sandboxing"
+    },
+    "claude-code-security.md": {
+      "hash": "5031eb984bb5bf4abc943c608e79742060c07c4ad715311a931fa47b402617e6",
+      "url": "https://code.claude.com/docs/en/security"
+    },
+    "claude-code-settings.md": {
+      "hash": "ddebe2c683748476284ab126eb1921be635dadb38ba4b328da7e7ced22d08889",
+      "url": "https://code.claude.com/docs/en/settings"
+    },
+    "claude-code-skills.md": {
+      "hash": "d21c48369ca35081b228ce532da82aaa93a04a47cfa306e6d7948030d6f4aba9",
+      "url": "https://code.claude.com/docs/en/skills"
+    },
+    "claude-code-subagents.md": {
+      "hash": "451ebd3db12b76a15599c837d0dd0e0d5745a69184c8308bf11caf66069c1861",
+      "url": "https://code.claude.com/docs/en/sub-agents"
+    },
+    "claude-code-worktrees.md": {
+      "hash": "d25960e59ee01b7c1a9d571ce4710615ef214c9106111c5c1f7a4bc8f5688a3f",
+      "url": "https://code.claude.com/docs/en/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees"
+    }
+  },
+  "version": "2.1.126",
+  "timestamp": "2026-05-02T14:32:08Z"
+}
