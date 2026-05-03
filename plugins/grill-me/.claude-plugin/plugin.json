@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "grill-me",
+  "description": "Challenge your thinking — ask tough questions about your code, decisions, and assumptions.",
+  "version": "0.0.1",
+  "author": {
+    "name": "José Stiller",
+    "email": "info@josestiller.de",
+    "url": "https://www.josestiller.de"
+  },
+  "repository": "https://github.com/JStiller/claude",
+  "license": "MIT"
+}
