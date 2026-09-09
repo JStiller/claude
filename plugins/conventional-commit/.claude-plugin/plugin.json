@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "conventional-commit",
+  "description": "Enforce Conventional Commits v1.0.0 format whenever a git commit is created.",
+  "version": "0.0.1",
+  "author": {
+    "name": "José Stiller",
+    "email": "info@josestiller.de",
+    "url": "https://www.josestiller.de"
+  },
+  "repository": "https://github.com/JStiller/claude",
+  "license": "MIT"
+}

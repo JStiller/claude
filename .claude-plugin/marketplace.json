@@ -12,6 +12,16 @@
       "description": "Compressed communication mode."
     },
     {
+      "name": "chart-picker",
+      "source": "./plugins/chart-picker",
+      "description": "Decide which chart type and color palette to use before building a dashboard panel or visualization."
+    },
+    {
+      "name": "conventional-commit",
+      "source": "./plugins/conventional-commit",
+      "description": "Enforce Conventional Commits v1.0.0 format whenever a git commit is created."
+    },
+    {
       "name": "create",
       "source": "./plugins/create",
       "description": "Create Claude Code artifacts: skills, hooks, commands, MCP servers, agents, and plugins."
@@ -20,6 +30,11 @@
       "name": "grill-me",
       "source": "./plugins/grill-me",
       "description": "Interview the user relentlessly about a plan or design until reaching shared understanding."
+    },
+    {
+      "name": "kms",
+      "source": "./plugins/kms",
+      "description": "PARA knowledge base workflows. Skills: /kms:new /kms:dashboard /kms:extract-feedback /kms:extract-actions /kms:meeting-prep /kms:archive-check /kms:para-review /kms:style-advisor. Agents: kms:navigator kms:coach."
     }
   ]
 }
