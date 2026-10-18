@@ -27,6 +27,11 @@
       "description": "Create Claude Code artifacts: skills, hooks, commands, MCP servers, agents, and plugins."
     },
     {
+      "name": "deepen",
+      "source": "./plugins/deepen",
+      "description": "Make a task prompt deeper, not bigger: expert moves, raw sources, methods, external verification."
+    },
+    {
       "name": "grill-me",
       "source": "./plugins/grill-me",
       "description": "Interview the user relentlessly about a plan or design until reaching shared understanding."

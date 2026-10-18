@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "deepen",
+  "description": "Make a task prompt deeper, not bigger: expert moves, raw sources, methods, external verification.",
+  "version": "0.0.1",
+  "author": {
+    "name": "José Stiller",
+    "email": "info@josestiller.de",
+    "url": "https://www.josestiller.de"
+  },
+  "repository": "https://github.com/JStiller/claude",
+  "license": "MIT"
+}
